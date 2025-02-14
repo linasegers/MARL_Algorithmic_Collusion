@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+/.idea
+/data
+/Intermediate_results
+/archive
+/output
+/.ipynb_checkpoints
+to_check.txt
+downloaded.csv
+test.py
+*.png
+*.PNG
+paper_algorithmic_collusion.md
+reset_runs.ipynb

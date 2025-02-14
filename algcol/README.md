@@ -1,0 +1,1 @@
+# Welcome to the first version of the package containing the experiment on algorithmic collusion
