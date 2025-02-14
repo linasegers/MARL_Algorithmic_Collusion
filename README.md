@@ -6,4 +6,4 @@ Fields: Computational Economics, Microeconomic Theory, Machine Learning
 
 **This repository has not been cleaned, files likely give errors at this point.**
 
-*Do not copy, do not cite, before using any files please [get in touch with me](Lina.Segers@eui.eu).*
+*Do not copy, do not cite, before using any files please [get in touch with me](mailto:Lina.Segers@eui.eu).*
